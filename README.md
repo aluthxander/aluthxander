@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @aluthxander
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning frond-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Halo semua! 
 
-<!---
-aluthxander/aluthxander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Lutfan Zainul Haq**.\
+
+Saya seorang **Mahasiswa** di [Unissula](https://unissula.ac.id/).\
+Saya tertarik dalam bidang robotik, AI, IoT dan Web Developer
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lutfan-zainul-haq-4373bb222/)ku ya.
