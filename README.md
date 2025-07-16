@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Lutfan Zainul Haq**.\
 
-Saya seorang **Full-stack developer** di PT. DSI
+Saya seorang **Full-stack developer**
 Saya tertarik dalam bidang robotik, AI, IoT dan Web Developer
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/lutfan-zainul-832862301/)ku ya.
